@@ -139,11 +139,11 @@ Worked across full-stack web development and applied AI, contributing to product
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://x.com/shuvankar345" target="_blank">
+  <a href="https://x.com/suvnkrr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X"/>
   </a>
   &nbsp;
-  <a href="https://facebook.com/shuvankar0" target="_blank">
+  <a href="https://facebook.com/suvnkrr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Facebook"/>
   </a>
   &nbsp;
